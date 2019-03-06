@@ -1,0 +1,13 @@
+#pgtop {
+    height:100px;
+    width: 100%;
+   display: block;
+   background-color: purple; 
+}
+
+.line {
+    height:25px;
+    width: 100%;
+   display: block;
+   background-color: purple; 
+}    
